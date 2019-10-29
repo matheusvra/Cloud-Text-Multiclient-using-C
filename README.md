@@ -12,13 +12,18 @@ Sempre rode o servidor primeiro
 
 ### Servidor
 Para rodar o servidor (apenas faça isso uma vez)
-./servidor [porta] 
+
+**./servidor [porta]**
+
 exemplo:
-./servidor 1080
+
+**./servidor 1080**
 
 ### Cliente
 Para rodar o cliente (Pode rodar vários clientes, um em cada terminal)
-./cliente [IP] [porta] 
+
+**./cliente [IP] [porta]**
+
 exemplo:
 
 **./cliente ::1 1080**
