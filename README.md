@@ -1,7 +1,7 @@
 # Cloud-Text-Multiclient-using-C
 
 Matheus Victor Ramos dos Anjos
-Este projeto simula um serviço de cloud text utilizando sockets em C. Funciona em IPV4 e IPV6 e tem suporte para multi-client utilizando threads.
+Este projeto simula um serviço de cloud text utilizando sockets TCP em C. Funciona em IPV4 e IPV6 e tem suporte para multi-client utilizando threads.
 
 ## Instalação
 Em um terminal, utilize o comando make para compilar e gerar os executáveis.
