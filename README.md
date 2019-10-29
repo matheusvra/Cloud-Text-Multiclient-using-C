@@ -3,9 +3,12 @@
 Matheus Victor Ramos dos Anjos - 2015012855
 
 ## Instalação
-Após dar o comando make, deve-se rodar em terminais diferentes os seguintes comandos (Sempre rode o servidor primeiro):
+Em um terminal, utilize o comando make para compilar e gerar os executáveis.
 
 ## Execução
+
+Sempre rode o servidor primeiro
+
 ### Servidor
 Para rodar o servidor (apenas faça isso uma vez)
 ./servidor [porta] 
